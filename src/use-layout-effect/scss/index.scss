@@ -1,0 +1,22 @@
+.box {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: green;
+    color: white;
+  }
+  
+  .msgA {
+    position: absolute;
+    border: 10px solid red;
+  }
+  .msgB {
+    position: absolute;
+    border: 10px solid orange;
+  }
+  .demoWrap {
+    position: relative;
+    float: left;
+    margin-left: 100px;
+  }
+  
